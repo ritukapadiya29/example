@@ -1,0 +1,80 @@
+getbootstrap website
+
+verson change
+bootstrap 5 cdn css cmt
+
+utilities--color
+
+give id for high priority
+
+for bgcolor
+
+for navbar go  components
+
+me --margin end
+
+ms --    
+
+remove container-fluid---only fluid
+
+chan
+
+to color change 50%29
+
+for carousel in components
+
+unsplash for images
+
+for fix carousel
+
+for fix images
+
+give height only on image
+div class indicator on class in css change button border radius & height and width give both importance
+
+for navbar fix  fixed-top in div nav
+
+remove bg color for transparent
+
+give transparent
+
+remove d-none class
+
+crousel caption class give padding-bottom-140px for image text in center
+
+for transparent bg  
+
+how to give animation 
+
+animate-(website)----link copy and   add class which give on website
+
+
+another animation website AOS Animate
+
+container fluid if remove fluid it will give margin
+
+for giving card  in bootstrap go on components
+
+layout--container
+
+
+for give space between cards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
